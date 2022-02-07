@@ -1,5 +1,5 @@
 # Live-Face-Detection-Segmentation
-Python scripts to detect and segment face using opencv, pixellib. Separate scripts for face detction and instance segmentation using Mask R-CNN.
+Python scripts to detect and segment face using opencv, pixellib. Separate scripts for face detction and instance segmentation using Mask R-CNN and Xception-65.
 ## Model Used
 * https://github.com/matterport/Mask_RCNN/releases/tag/v2.0
 * https://github.com/tensorflow/models/blob/master/research/deeplab/g3doc/model_zoo.md
